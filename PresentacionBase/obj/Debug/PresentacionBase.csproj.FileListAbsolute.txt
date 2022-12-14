@@ -1,0 +1,68 @@
+A:\Laboratorio ll 2020\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.dll
+A:\Laboratorio ll 2020\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.pdb
+A:\Laboratorio ll 2020\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.dll
+A:\Laboratorio ll 2020\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.pdb
+A:\Laboratorio ll 2020\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormAbm.resources
+A:\Laboratorio ll 2020\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormBase.resources
+A:\Laboratorio ll 2020\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsultaConDetalle.resources
+A:\Laboratorio ll 2020\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsulta.resources
+A:\Laboratorio ll 2020\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormLookUp.resources
+A:\Laboratorio ll 2020\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.GenerateResource.cache
+A:\Laboratorio ll 2020\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CoreCompileInputs.cache
+A:\Laboratorio ll 2020\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CopyComplete
+A:\Laboratorio ll 2020\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.dll
+A:\Laboratorio ll 2020\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.pdb
+A:\Laboratorio ll 2020\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csprojAssemblyReference.cache
+A:\Laboratorio ll 2020\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Properties.Resources.resources
+A:\Laboratorio ll 2020\N-Commerce\PresentacionBase\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Albano\Desktop\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.dll
+C:\Users\Albano\Desktop\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.pdb
+C:\Users\Albano\Desktop\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Albano\Desktop\N-Commerce\PresentacionBase\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Albano\Desktop\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Albano\Desktop\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormAbm.resources
+C:\Users\Albano\Desktop\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormBase.resources
+C:\Users\Albano\Desktop\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsultaConDetalle.resources
+C:\Users\Albano\Desktop\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsulta.resources
+C:\Users\Albano\Desktop\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormLookUp.resources
+C:\Users\Albano\Desktop\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Properties.Resources.resources
+C:\Users\Albano\Desktop\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.GenerateResource.cache
+C:\Users\Albano\Desktop\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CoreCompileInputs.cache
+C:\Users\Albano\Desktop\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CopyComplete
+C:\Users\Albano\Desktop\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.dll
+C:\Users\Albano\Desktop\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.pdb
+C:\Users\Albano\Desktop\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.AssemblyReference.cache
+D:\Proyecto Martin (Final)\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.dll
+D:\Proyecto Martin (Final)\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.pdb
+D:\Proyecto Martin (Final)\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.dll
+D:\Proyecto Martin (Final)\N-Commerce\PresentacionBase\bin\Debug\FontAwesome.Sharp.dll
+D:\Proyecto Martin (Final)\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.pdb
+D:\Proyecto Martin (Final)\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.AssemblyReference.cache
+D:\Proyecto Martin (Final)\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormAbm.resources
+D:\Proyecto Martin (Final)\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormBase.resources
+D:\Proyecto Martin (Final)\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsultaConDetalle.resources
+D:\Proyecto Martin (Final)\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsulta.resources
+D:\Proyecto Martin (Final)\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormLookUp.resources
+D:\Proyecto Martin (Final)\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Properties.Resources.resources
+D:\Proyecto Martin (Final)\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.GenerateResource.cache
+D:\Proyecto Martin (Final)\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CoreCompileInputs.cache
+D:\Proyecto Martin (Final)\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CopyComplete
+D:\Proyecto Martin (Final)\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.dll
+D:\Proyecto Martin (Final)\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.pdb
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.pdb
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\PresentacionBase\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.AssemblyReference.cache
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormAbm.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormBase.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsultaConDetalle.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsulta.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormLookUp.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Properties.Resources.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.GenerateResource.cache
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CoreCompileInputs.cache
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CopyComplete
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.pdb

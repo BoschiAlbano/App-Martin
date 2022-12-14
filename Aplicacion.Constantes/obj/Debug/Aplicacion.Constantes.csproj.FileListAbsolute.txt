@@ -1,0 +1,30 @@
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Properties.RecursoImagenes.resources
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb
+A:\Laboratorio ll 2020\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+A:\Laboratorio ll 2020\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+A:\Laboratorio ll 2020\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Properties.RecursoImagenes.resources
+A:\Laboratorio ll 2020\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+A:\Laboratorio ll 2020\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
+A:\Laboratorio ll 2020\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+A:\Laboratorio ll 2020\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb
+A:\Laboratorio ll 2020\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csprojAssemblyReference.cache
+C:\Users\Albano\Desktop\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Albano\Desktop\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Albano\Desktop\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Properties.RecursoImagenes.resources
+C:\Users\Albano\Desktop\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+C:\Users\Albano\Desktop\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
+C:\Users\Albano\Desktop\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+C:\Users\Albano\Desktop\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Properties.RecursoImagenes.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb

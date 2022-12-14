@@ -1,0 +1,684 @@
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\IServicios.dll
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\PresentacionBase.dll
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\StructureMap.dll
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.dll
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.Linq.dll
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\System.ValueTuple.dll
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.dll
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\IServicios.pdb
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\IServicios.dll.config
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\PresentacionBase.pdb
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.xml
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.Linq.xml
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.xml
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\System.ValueTuple.xml
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.pdb
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo.ArticuloLookUp.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00017_Articulo.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00018_Abm_Articulo.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00019_Rubro.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00020_Abm_Rubro.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00022_Abm_Marca.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00024_Abm_UnidadDeMedida.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00026_Abm_Iva.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00028_Abm_MotivoBaja.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00029_BajaDeArticulos.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00030_Abm_BajaArticulos.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00031_ActualizarPrecios.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00032_ListaPrecio.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00033_Abm_ListaPrecio.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00038_Caja.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00039_AperturaCaja.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00040_CierreCaja.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00041_ConceptoGastos.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00042_Abm_ConceptoGastos.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00043_Gastos.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00044_Abm_Gastos.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente.ClienteLookUp.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00009_Cliente.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00010_Abm_Cliente.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00034_ClienteCtaCte.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00035_ClientePagoCtaCte.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00050_Venta.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00051_PuestoTrabajo.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00052_Abm_PuestoTrabajo.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00053_Compra.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00013_CondicionIva.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00014_Abm_CondicionIva.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Configuracion._00012_Configuracion.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00003_Departamento.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00004_Abm_Departamento.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado.EmpleadoLookUp.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00007_Empleado.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00008_Abm_Empleado.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00044_FormaPago.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00046_Abm_tarjeta.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00048_Abm_Banco.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00049_CobroDiferido.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00005_Localidad.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00006_AbmLocalidad.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00016_Abm_Proveedor.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00036_ProveedorCtaCte.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00037_ProveedorPagoCtaCte.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00001_Provincia.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00002_Abm_Provincia.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Usuario._00011_Usuario.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Properties.Resources.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00021_Marca.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00023_UnidadDeMedida.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00025_Iva.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Deposito._00055_Abm_Deposito.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes.Clases.AutorizacionLitPrecio.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes.Clases.CambiarCantidadItems.resources
+A:\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja.VerComprobantesCierreCaja.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.dll
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\IServicios.dll
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\PresentacionBase.dll
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\StructureMap.dll
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.dll
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.Linq.dll
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\System.ValueTuple.dll
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.pdb
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\IServicios.pdb
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\IServicios.dll.config
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\PresentacionBase.pdb
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.xml
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.Linq.xml
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.xml
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\bin\Debug\System.ValueTuple.xml
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo.ArticuloLookUp.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00017_Articulo.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00018_Abm_Articulo.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00019_Rubro.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00020_Abm_Rubro.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00021_Marca.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00022_Abm_Marca.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00023_UnidadDeMedida.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00024_Abm_UnidadDeMedida.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00025_Iva.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00026_Abm_Iva.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00028_Abm_MotivoBaja.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00029_BajaDeArticulos.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00030_Abm_BajaArticulos.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00031_ActualizarPrecios.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00032_ListaPrecio.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00033_Abm_ListaPrecio.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja.VerComprobantesCierreCaja.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00038_Caja.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00039_AperturaCaja.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00040_CierreCaja.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00041_ConceptoGastos.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00042_Abm_ConceptoGastos.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00043_Gastos.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00044_Abm_Gastos.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente.ClienteLookUp.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00009_Cliente.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00010_Abm_Cliente.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00034_ClienteCtaCte.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00035_ClientePagoCtaCte.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes.Clases.AutorizacionLitPrecio.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes.Clases.CambiarCantidadItems.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00050_Venta.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00051_PuestoTrabajo.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00052_Abm_PuestoTrabajo.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00053_Compra.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00013_CondicionIva.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00014_Abm_CondicionIva.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Configuracion._00012_Configuracion.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00003_Departamento.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00004_Abm_Departamento.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Deposito._00055_Abm_Deposito.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado.EmpleadoLookUp.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00007_Empleado.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00008_Abm_Empleado.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00044_FormaPago.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00046_Abm_tarjeta.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00048_Abm_Banco.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00049_CobroDiferido.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00005_Localidad.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00006_AbmLocalidad.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Properties.Resources.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00016_Abm_Proveedor.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00036_ProveedorCtaCte.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00037_ProveedorPagoCtaCte.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00001_Provincia.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00002_Abm_Provincia.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Usuario._00011_Usuario.resources
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+A:\Tecnicatura Superior Prog\2º - 2020\Laboratorio ll 2020\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\IServicios.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\PresentacionBase.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\StructureMap.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\System.ValueTuple.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\IServicios.pdb
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\IServicios.dll.config
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\PresentacionBase.pdb
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.xml
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\System.ValueTuple.xml
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo.ArticuloLookUp.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00017_Articulo.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00018_Abm_Articulo.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00019_Rubro.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00020_Abm_Rubro.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00021_Marca.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00022_Abm_Marca.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00023_UnidadDeMedida.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00024_Abm_UnidadDeMedida.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00025_Iva.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00026_Abm_Iva.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00028_Abm_MotivoBaja.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00029_BajaDeArticulos.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00030_Abm_BajaArticulos.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00031_ActualizarPrecios.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00032_ListaPrecio.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00033_Abm_ListaPrecio.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja.VerComprobantesCierreCaja.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00038_Caja.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00039_AperturaCaja.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00040_CierreCaja.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00041_ConceptoGastos.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00042_Abm_ConceptoGastos.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00043_Gastos.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00044_Abm_Gastos.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente.ClienteLookUp.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00009_Cliente.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00010_Abm_Cliente.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00034_ClienteCtaCte.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00035_ClientePagoCtaCte.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes.Clases.AutorizacionLitPrecio.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes.Clases.CambiarCantidadItems.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00050_Venta.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00051_PuestoTrabajo.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00052_Abm_PuestoTrabajo.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00053_Compra.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00013_CondicionIva.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00014_Abm_CondicionIva.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Configuracion._00012_Configuracion.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00003_Departamento.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00004_Abm_Departamento.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Deposito._00055_Abm_Deposito.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado.EmpleadoLookUp.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00007_Empleado.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00008_Abm_Empleado.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00044_FormaPago.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00046_Abm_tarjeta.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00048_Abm_Banco.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00049_CobroDiferido.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00005_Localidad.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00006_AbmLocalidad.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Properties.Resources.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00016_Abm_Proveedor.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00036_ProveedorCtaCte.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00037_ProveedorPagoCtaCte.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00001_Provincia.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00002_Abm_Provincia.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Usuario._00011_Usuario.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.dll.config
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\BarcodeStandard.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\System.Buffers.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\System.Drawing.Common.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\System.Memory.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\System.Text.Json.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\System.Buffers.xml
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\System.Memory.xml
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\System.Text.Json.xml
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00060_CodigoDeBarras.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.AssemblyReference.cache
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\EnvDTE.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\stdole.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\RdlCompile.cache
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\RdlCompile.compiled
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Reportes.ReporteComprobantes.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Reportes.ReporteFactura.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo.ActualizarStock.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Reportes.ReporteArticulo.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Reportes.ReporteClienteCuentaCorriente.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Reportes.ReporteEstadoClienteCuentaCorriente.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes.EliminarComprobantesViejos.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Usuario.CalcularComision.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes.Consolidado.resources
+C:\Users\Albano\Desktop\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Deposito._00054_Deposito.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.dll.config
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\BarcodeStandard.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\FontAwesome.Sharp.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\IServicios.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\PresentacionBase.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\StructureMap.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Buffers.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Drawing.Common.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Memory.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Numerics.Vectors.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.Linq.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Text.Encodings.Web.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Text.Json.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.ValueTuple.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\EnvDTE.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\stdole.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.MSXML.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.pdb
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\IServicios.pdb
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\IServicios.dll.config
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\PresentacionBase.pdb
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Buffers.xml
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Memory.xml
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Numerics.Vectors.xml
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.xml
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.Linq.xml
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Text.Encodings.Web.xml
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Text.Json.xml
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.ValueTuple.xml
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.AssemblyReference.cache
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo.ActualizarStock.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo.ArticuloLookUp.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00017_Articulo.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00018_Abm_Articulo.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00019_Rubro.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00020_Abm_Rubro.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00021_Marca.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00022_Abm_Marca.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00023_UnidadDeMedida.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00024_Abm_UnidadDeMedida.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00025_Iva.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00026_Abm_Iva.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00028_Abm_MotivoBaja.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00029_BajaDeArticulos.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00030_Abm_BajaArticulos.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00031_ActualizarPrecios.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00032_ListaPrecio.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00033_Abm_ListaPrecio.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00060_CodigoDeBarras.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja.VerComprobantesCierreCaja.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00038_Caja.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00039_AperturaCaja.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00040_CierreCaja.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00041_ConceptoGastos.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00042_Abm_ConceptoGastos.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00043_Gastos.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00044_Abm_Gastos.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente.ClienteLookUp.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00009_Cliente.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00010_Abm_Cliente.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00034_ClienteCtaCte.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00035_ClientePagoCtaCte.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes.Clases.AutorizacionLitPrecio.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes.Clases.CambiarCantidadItems.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes.Consolidado.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes.EliminarComprobantesViejos.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00050_Venta.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00051_PuestoTrabajo.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00052_Abm_PuestoTrabajo.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00053_Compra.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00013_CondicionIva.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00014_Abm_CondicionIva.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Configuracion._00012_Configuracion.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00003_Departamento.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00004_Abm_Departamento.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Deposito._00054_Deposito.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Deposito._00055_Abm_Deposito.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado.EmpleadoLookUp.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00007_Empleado.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00008_Abm_Empleado.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00044_FormaPago.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00046_Abm_tarjeta.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00048_Abm_Banco.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00049_CobroDiferido.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00005_Localidad.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00006_AbmLocalidad.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Properties.Resources.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00016_Abm_Proveedor.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00036_ProveedorCtaCte.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00037_ProveedorPagoCtaCte.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00001_Provincia.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00002_Abm_Provincia.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Reportes.ReporteArticulo.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Reportes.ReporteClienteCuentaCorriente.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Reportes.ReporteComprobantes.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Reportes.ReporteEstadoClienteCuentaCorriente.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Reportes.ReporteFactura.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Usuario.CalcularComision.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Usuario._00011_Usuario.resources
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\RdlCompile.cache
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\RdlCompile.compiled
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+D:\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.dll.config
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\BarcodeStandard.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\IServicios.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\PresentacionBase.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\StructureMap.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Buffers.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Drawing.Common.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Memory.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Text.Json.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.ValueTuple.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\EnvDTE.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\stdole.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\IServicios.pdb
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\IServicios.dll.config
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\PresentacionBase.pdb
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Buffers.xml
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Memory.xml
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.xml
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Text.Json.xml
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\System.ValueTuple.xml
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.AssemblyReference.cache
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo.ActualizarStock.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo.ArticuloLookUp.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00017_Articulo.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00018_Abm_Articulo.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00019_Rubro.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00020_Abm_Rubro.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00021_Marca.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00022_Abm_Marca.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00023_UnidadDeMedida.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00024_Abm_UnidadDeMedida.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00025_Iva.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00026_Abm_Iva.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00028_Abm_MotivoBaja.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00029_BajaDeArticulos.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00030_Abm_BajaArticulos.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00031_ActualizarPrecios.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00032_ListaPrecio.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00033_Abm_ListaPrecio.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00060_CodigoDeBarras.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja.VerComprobantesCierreCaja.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00038_Caja.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00039_AperturaCaja.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00040_CierreCaja.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00041_ConceptoGastos.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00042_Abm_ConceptoGastos.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00043_Gastos.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00044_Abm_Gastos.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente.ClienteLookUp.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00009_Cliente.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00010_Abm_Cliente.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00034_ClienteCtaCte.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00035_ClientePagoCtaCte.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes.Clases.AutorizacionLitPrecio.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes.Clases.CambiarCantidadItems.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes.Consolidado.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes.EliminarComprobantesViejos.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00050_Venta.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00051_PuestoTrabajo.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00052_Abm_PuestoTrabajo.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00053_Compra.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00013_CondicionIva.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00014_Abm_CondicionIva.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Configuracion._00012_Configuracion.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00003_Departamento.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00004_Abm_Departamento.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Deposito._00054_Deposito.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Deposito._00055_Abm_Deposito.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado.EmpleadoLookUp.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00007_Empleado.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00008_Abm_Empleado.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00044_FormaPago.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00046_Abm_tarjeta.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00048_Abm_Banco.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00049_CobroDiferido.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00005_Localidad.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00006_AbmLocalidad.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Properties.Resources.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00016_Abm_Proveedor.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00036_ProveedorCtaCte.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00037_ProveedorPagoCtaCte.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00001_Provincia.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00002_Abm_Provincia.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Reportes.ReporteArticulo.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Reportes.ReporteClienteCuentaCorriente.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Reportes.ReporteComprobantes.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Reportes.ReporteEstadoClienteCuentaCorriente.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Reportes.ReporteFactura.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Usuario.CalcularComision.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Usuario._00011_Usuario.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Reportes.ReporteArticuloCapital.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Reportes.ReporteArticuloLista.resources
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\RdlCompile.cache
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\RdlCompile.compiled
+C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Reportes.Datos.FormularioArticulo.resources
