@@ -49,3 +49,20 @@ C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\IServicios\obj\Debug\
 C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\IServicios\obj\Debug\IServicios.csproj.CopyComplete
 C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\IServicios\obj\Debug\IServicios.dll
 C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\IServicios\obj\Debug\IServicios.pdb
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\IServicios\bin\Debug\IServicios.dll.config
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\IServicios\bin\Debug\IServicios.dll
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\IServicios\bin\Debug\IServicios.pdb
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\IServicios\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\IServicios\bin\Debug\Dominio.dll
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\IServicios\bin\Debug\EntityFramework.dll
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\IServicios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\IServicios\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\IServicios\bin\Debug\Dominio.pdb
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\IServicios\bin\Debug\Dominio.dll.config
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\IServicios\bin\Debug\EntityFramework.xml
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\IServicios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\IServicios\obj\Debug\IServicios.csproj.AssemblyReference.cache
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\IServicios\obj\Debug\IServicios.csproj.CoreCompileInputs.cache
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\IServicios\obj\Debug\IServicios.csproj.CopyComplete
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\IServicios\obj\Debug\IServicios.dll
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\IServicios\obj\Debug\IServicios.pdb

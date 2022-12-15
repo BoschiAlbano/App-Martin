@@ -57,3 +57,15 @@ C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Aplicacion\obj\Debug\
 C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Aplicacion\obj\Debug\Aplicacion.csproj.CopyComplete
 C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Aplicacion\obj\Debug\Aplicacion.dll
 C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Aplicacion\obj\Debug\Aplicacion.pdb
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Aplicacion\bin\Debug\Aplicacion.dll.config
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Aplicacion\bin\Debug\Aplicacion.dll
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Aplicacion\bin\Debug\Aplicacion.pdb
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Aplicacion\bin\Debug\EntityFramework.dll
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Aplicacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Aplicacion\bin\Debug\EntityFramework.xml
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Aplicacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Aplicacion\obj\Debug\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Aplicacion\obj\Debug\Aplicacion.csproj.CopyComplete
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Aplicacion\obj\Debug\Aplicacion.dll
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Aplicacion\obj\Debug\Aplicacion.pdb
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Aplicacion\obj\Debug\Aplicacion.csproj.AssemblyReference.cache

@@ -36,5 +36,9 @@ namespace IServicios.Factura.DTOs
 
         public decimal SubTotal => Cantidad * Precio;
         public string SubTotalStr => SubTotal.ToString("C", new CultureInfo("es-Ar"));
+
+        public decimal Dto { get; set; }
+        public string DtoStr => Dto == 0 ? " - " : Dto.ToString() + " %";
     }
+
 }

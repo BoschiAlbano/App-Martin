@@ -28,3 +28,10 @@ C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Aplicacion.Constantes
 C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
 C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
 C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Properties.RecursoImagenes.resources
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb

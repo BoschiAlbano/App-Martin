@@ -22,6 +22,7 @@ namespace Dominio.Entidades
         public decimal PrecioCosto { get; set; }
 
         public decimal SubTotal { get; set; }
+        public decimal Dto { get; set; }
 
         // Propiedades de Navegacion
         public virtual Comprobante Comprobante { get; set; }

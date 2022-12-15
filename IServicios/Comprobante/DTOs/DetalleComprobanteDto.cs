@@ -11,7 +11,7 @@ namespace IServicios.Comprobante.DTOs
         public decimal Iva { get; set; }
         public decimal Precio { get; set; }
         public decimal SubTotal { get; set; }
-
+        public decimal Dto { get; set; }
     }
 
 }

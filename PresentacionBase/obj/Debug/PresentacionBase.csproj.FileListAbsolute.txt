@@ -66,3 +66,20 @@ C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\PresentacionBase\obj\
 C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CopyComplete
 C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.dll
 C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.pdb
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.dll
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.pdb
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\PresentacionBase\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.AssemblyReference.cache
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormAbm.resources
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormBase.resources
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsultaConDetalle.resources
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsulta.resources
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormLookUp.resources
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Properties.Resources.resources
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.GenerateResource.cache
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CoreCompileInputs.cache
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CopyComplete
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.dll
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.pdb

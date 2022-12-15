@@ -504,6 +504,7 @@ namespace Presentacion.Core.FormaPago
                             Descripcion = item.Descripcion,
                             Precio = item.Precio,
                             Cantidad = item.Cantidad,
+                            Dto = item.Dto
                         });
                     }
 

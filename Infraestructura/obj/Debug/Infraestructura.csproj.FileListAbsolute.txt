@@ -115,3 +115,30 @@ C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Infraestructura\obj\D
 C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Infraestructura\obj\Debug\Infraestructura.dll
 C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Infraestructura\obj\Debug\Infraestructura.pdb
 C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Infraestructura\obj\Debug\Infraestructura.Migrations.PermiteStockNegativo.resources
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Infraestructura\bin\Debug\Infraestructura.dll.config
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Infraestructura\bin\Debug\Infraestructura.dll
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Infraestructura\bin\Debug\Infraestructura.pdb
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Infraestructura\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Infraestructura\bin\Debug\Aplicacion.dll
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Infraestructura\bin\Debug\Dominio.dll
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Infraestructura\bin\Debug\EntityFramework.dll
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Infraestructura\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Infraestructura\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Infraestructura\bin\Debug\Aplicacion.pdb
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Infraestructura\bin\Debug\Aplicacion.dll.config
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Infraestructura\bin\Debug\Dominio.pdb
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Infraestructura\bin\Debug\Dominio.dll.config
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Infraestructura\bin\Debug\EntityFramework.xml
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Infraestructura\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.AssemblyReference.cache
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Infraestructura\obj\Debug\Infraestructura.Migrations.Inicial.resources
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Infraestructura\obj\Debug\Infraestructura.Migrations.PrecioCosto.resources
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Infraestructura\obj\Debug\Infraestructura.Migrations.DeudaCliente.resources
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Infraestructura\obj\Debug\Infraestructura.Migrations.Caja.resources
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Infraestructura\obj\Debug\Infraestructura.Migrations.PermiteStockNegativo.resources
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.GenerateResource.cache
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.CopyComplete
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Infraestructura\obj\Debug\Infraestructura.dll
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Infraestructura\obj\Debug\Infraestructura.pdb
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Infraestructura\obj\Debug\Infraestructura.Migrations.Dto.resources

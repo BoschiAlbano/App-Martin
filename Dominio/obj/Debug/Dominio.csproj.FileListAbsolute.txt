@@ -66,3 +66,17 @@ C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Dominio\obj\Debug\Dom
 C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Dominio\obj\Debug\Dominio.csproj.CopyComplete
 C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Dominio\obj\Debug\Dominio.dll
 C:\Users\Albano\Desktop\Proyecto Martin (Final)\N-Commerce\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Dominio\bin\Debug\Dominio.dll
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Dominio\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Dominio\bin\Debug\EntityFramework.dll
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Dominio\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Dominio\bin\Debug\EntityFramework.xml
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Dominio\obj\Debug\Dominio.dll
+C:\Users\Albano\Desktop\App-Martin\N-Commerce\Dominio\obj\Debug\Dominio.pdb

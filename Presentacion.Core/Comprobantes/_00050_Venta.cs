@@ -53,6 +53,7 @@ namespace Presentacion.Core.Comprobantes
 
         // PROYECTO MARTIN
         private bool _UnificarRenglores = true;
+        private string DtoItem;
 
         public _00050_Venta(IConfiguracionServicio configuracionServicio
             , IClienteServicio clienteServicio, IEmpleadoServicio empleadoServicio
@@ -208,15 +209,22 @@ namespace Presentacion.Core.Comprobantes
             dgv.Columns["Cantidad"].HeaderText = "Cantidad";
             dgv.Columns["Cantidad"].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter;
 
+            dgv.Columns["DtoStr"].Visible = true;
+            dgv.Columns["DtoStr"].Width = 130;
+            dgv.Columns["DtoStr"].HeaderText = "Dto";
+            dgv.Columns["DtoStr"].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter;
+
             dgv.Columns["PrecioStr"].Visible = true;
             dgv.Columns["PrecioStr"].Width = 130;
             dgv.Columns["PrecioStr"].HeaderText = "Precio";
-            dgv.Columns["PrecioStr"].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleRight;
+            dgv.Columns["PrecioStr"].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter;
 
             dgv.Columns["SubTotalStr"].Visible = true;
             dgv.Columns["SubTotalStr"].Width = 130;
             dgv.Columns["SubTotalStr"].HeaderText = "Sub-Total";
-            dgv.Columns["SubTotalStr"].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleRight;
+            dgv.Columns["SubTotalStr"].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter;
+
+
         }
 
         // Botones
@@ -274,20 +282,12 @@ namespace Presentacion.Core.Comprobantes
                 }
 
                 txtDescripcion.Text = _ArticuloSeleccionado.Descripcion;
+                txtPrecio.Text = _ArticuloSeleccionado.PrecioStr;
                 txtPrecioUnitario.Text = _ArticuloSeleccionado.PrecioStr;
 
-                if (_PermitirIngresarCantidad)
-                {
-                    // Paso al nud Cantidad
-                    nudCantidad.Focus();
-                    nudCantidad.Select(0, nudCantidad.Value.ToString().Length);
-                }
-                else
-                {
-                    // Agrego el Articulo
-                    btnAgregar.PerformClick();
-                    LimpiarParaNuevoItem();
-                }
+                // nud porcentaje
+                nudDto.Focus();
+                nudDto.Select(0, nudCantidad.Value.ToString().Length);
                 
             }
 
@@ -321,6 +321,7 @@ namespace Presentacion.Core.Comprobantes
                         txtCodigo.Text = _ArticuloSeleccionado.CodigoBarra;
                         txtDescripcion.Text = _ArticuloSeleccionado.Descripcion;
                         txtPrecioUnitario.Text = _ArticuloSeleccionado.PrecioStr;
+                        txtPrecio.Text = _ArticuloSeleccionado.PrecioStr;
                         nudCantidad.Focus();
 
                         nudCantidad.Select(0, nudCantidad.Value.ToString().Length);
@@ -457,12 +458,13 @@ namespace Presentacion.Core.Comprobantes
             {
                 _IngresoArticuloAlternativo = ArticuloAlternativo(codigo);
                 return;
-            }else if (txtCodigo.Text.Contains("%")) // ARTICULO CON PRECIO ALTERNATIVO => CODIGO % PRECIO
-            {
-                _IngresoArticuloAlternativo = ArticuloAlternativoPortcentaje(codigo);
-                return;
             }
 
+            //else if (txtCodigo.Text.Contains("%")) // ARTICULO CON PRECIO ALTERNATIVO => CODIGO % PRECIO
+            //{
+            //    _IngresoArticuloAlternativo = ArticuloAlternativoPortcentaje(codigo);
+            //    return;
+            //}
             // Codigo Normal
             ArticuloNormal(txtCodigo.Text);
 
@@ -470,6 +472,9 @@ namespace Presentacion.Core.Comprobantes
         private void ArticuloNormal(string codigo)
         {
             _ArticuloSeleccionado = _ArticuloServicio.ObtenerPorCodigo(codigo);
+            if (_ArticuloSeleccionado != null) { 
+                txtPrecio.Text = _ArticuloSeleccionado.PrecioStr;
+            }
         }
         private bool ArticuloAlternativo(string codigoArticulo)
         {
@@ -488,6 +493,8 @@ namespace Presentacion.Core.Comprobantes
 
                 if (_ArticuloSeleccionado != null)
                 {
+                    txtPrecio.Text = _ArticuloSeleccionado.PrecioStr;
+
                     if (!string.IsNullOrEmpty(precioAlternativo))
                     {
                         if (decimal.TryParse(precioAlternativo, out decimal NuevoPrecio))
@@ -529,7 +536,7 @@ namespace Presentacion.Core.Comprobantes
             // sacamos el Codigo (Antes del %)
             var codigo = codigoArticulo.Substring(0, codigoArticulo.IndexOf('%'));
             // sacamos el PrecioAlternativo
-            var precioAlternativo = codigoArticulo.Substring(codigoArticulo.IndexOf('%') + 1);
+            DtoItem = codigoArticulo.Substring(codigoArticulo.IndexOf('%') + 1);
 
             if (!string.IsNullOrEmpty(codigo))
             {
@@ -537,9 +544,9 @@ namespace Presentacion.Core.Comprobantes
 
                 if (_ArticuloSeleccionado != null)
                 {
-                    if (!string.IsNullOrEmpty(precioAlternativo))
+                    if (!string.IsNullOrEmpty(DtoItem))
                     {
-                        if (decimal.TryParse(precioAlternativo, out decimal NuevoPrecio))
+                        if (decimal.TryParse(DtoItem, out decimal NuevoPrecio))
                         {
                             _ArticuloSeleccionado.Precio -= (_ArticuloSeleccionado.Precio * (NuevoPrecio / 100));
                             return true;
@@ -668,7 +675,6 @@ namespace Presentacion.Core.Comprobantes
             }
 
             // Stock
-            
             if (!articulo.PermiteStockNegativo && !VerificarStock(articulo,nudCantidad.Value))
             {
                 var MensajeStock = ($"No hay Stock suficiente para el Articulo {articulo.Descripcion.ToUpper()}"
@@ -683,6 +689,7 @@ namespace Presentacion.Core.Comprobantes
                 lblDescripcion.BackColor = System.Drawing.Color.FromArgb(128, 255, 128);
                 lblDescripcion.Text = articulo.Descripcion + " Permite Stock Negativo ";
             }
+
             // si unificamos los articulos o no
             if (_IngresoArticuloAlternativo || _IngresoArticuloBascula)
             {
@@ -694,7 +701,7 @@ namespace Presentacion.Core.Comprobantes
                 {
                     // Error: ingreso primero con bascula y depues normal se aumenta la cantidad
                     // Error: si cambio la cantidad 
-                    var ItemDelCuerpo = _Factura.Items.FirstOrDefault(x => x.ArticuloId == articulo.Id && x.IngresoPorBascula == false && x.EsArticuloAlternativo == false);
+                    var ItemDelCuerpo = _Factura.Items.FirstOrDefault(x => x.ArticuloId == articulo.Id && x.IngresoPorBascula == false && x.EsArticuloAlternativo == false && x.Precio == articulo.Precio);
 
                     if (ItemDelCuerpo == null)
                     {
@@ -804,6 +811,15 @@ namespace Presentacion.Core.Comprobantes
         }
         private void AsignarDatosItems(ArticuloVentaDto articulo, int cantidad)
         {
+            //// % /  *  / Normal
+            //var _Descuento = 0m;
+
+            //if (!string.IsNullOrEmpty(DtoItem)) {
+            //    // si tiene algo
+            //    decimal.TryParse(DtoItem, out decimal Descuento);
+            //    _Descuento = Descuento;
+            //}
+
             _Factura.ContadorItems++;
             _Factura.Items.Add(new ItemView
             {
@@ -816,6 +832,7 @@ namespace Presentacion.Core.Comprobantes
                 Iva = articulo.Iva,
                 EsArticuloAlternativo = _IngresoArticuloAlternativo,
                 IngresoPorBascula = _IngresoArticuloBascula,
+                Dto = nudDto.Value
             });
 
             CargarCuerpo();
@@ -839,7 +856,9 @@ namespace Presentacion.Core.Comprobantes
             _DatoAsignado = false;
             txtCodigo.Focus();
 
-            
+            DtoItem = "";
+            nudDto.Value = 0;
+            txtPrecio.Clear();
         }
         #endregion
 
@@ -892,8 +911,8 @@ namespace Presentacion.Core.Comprobantes
                             Iva = item.Iva,
                             ArticuloId = item.ArticuloId,
                             Codigo = item.CodigoBarra,
-                            Eliminado = false
-
+                            Eliminado = false,
+                            Dto = item.Dto
                         });
 
                     }
@@ -928,6 +947,7 @@ namespace Presentacion.Core.Comprobantes
                             Descripcion = item.Descripcion,
                             Precio = item.Precio,
                             Cantidad = item.Cantidad,
+                            Dto = item.Dto
                         });
                     }
 
@@ -1019,5 +1039,35 @@ namespace Presentacion.Core.Comprobantes
             WindowState = FormWindowState.Minimized;
         }
         #endregion
+
+        private void nudDto_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == (char)Keys.Enter)
+            {
+                // nud cantidad
+                if (_PermitirIngresarCantidad)
+                {
+                    // Paso al nud Cantidad
+                    nudCantidad.Focus();
+                    nudCantidad.Select(0, nudCantidad.Value.ToString().Length);
+                }
+                else
+                {
+                    // Agrego el Articulo
+                    btnAgregar.PerformClick();
+                    LimpiarParaNuevoItem();
+                }
+            }
+        }
+
+        private void nudDto_ValueChanged(object sender, EventArgs e)
+        {
+            if (_ArticuloSeleccionado == null) {
+                return;
+            }
+            _ArticuloSeleccionado.Precio -= (_ArticuloSeleccionado.Precio * (nudDto.Value / 100));
+
+            txtPrecioUnitario.Text = _ArticuloSeleccionado.PrecioStr;
+        }
     }
 }

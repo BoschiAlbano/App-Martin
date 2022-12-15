@@ -197,6 +197,7 @@ namespace Servicios.Comprobante
                     Descripcion = item.Descripcion,
                     Precio = item.Precio,
                     Cantidad = item.Cantidad,
+                    Dto = item.Dto
                 };
 
                 Reporte.Add(agregar);

@@ -72,6 +72,10 @@
     <Compile Include="Migrations\202207251827211_PermiteStockNegativo.designer.cs">
       <DependentUpon>202207251827211_PermiteStockNegativo.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202212142215240_Dto.cs" />
+    <Compile Include="Migrations\202212142215240_Dto.designer.cs">
+      <DependentUpon>202212142215240_Dto.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositorio\ClienteRepositorio.cs" />
@@ -116,6 +120,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202207251827211_PermiteStockNegativo.resx">
       <DependentUpon>202207251827211_PermiteStockNegativo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202212142215240_Dto.resx">
+      <DependentUpon>202212142215240_Dto.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

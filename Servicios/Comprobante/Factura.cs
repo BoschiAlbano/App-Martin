@@ -7,8 +7,6 @@ using IServicios.Comprobante.DTOs;
 using IServicios.Contador;
 using StructureMap;
 using System;
-using System.Collections.Generic;
-using System.Data.Entity.Validation;
 using System.Linq;
 using System.Transactions;
 
@@ -103,6 +101,7 @@ namespace Servicios.Comprobante
                                     PrecioCosto = articulo.PrecioCosto,
                                     SubTotal = Detalle.SubTotal,
                                     EstaEliminado = false,
+                                    Dto = Detalle.Dto
                                 });
                             }
 

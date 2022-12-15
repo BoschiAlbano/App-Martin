@@ -24,6 +24,8 @@ namespace Presentacion.Core.Comprobantes.Clases
 
         public decimal Precio { get; set; }
         public string PrecioStr => Precio.ToString("C", new CultureInfo("es-Ar"));
+        public decimal Dto { get; set; }
+        public string DtoStr => Dto.ToString() + " %";
 
         public int Cantidad { get; set; }
 
