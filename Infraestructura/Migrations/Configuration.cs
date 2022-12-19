@@ -313,7 +313,7 @@ namespace Infraestructura.Migrations
                         Mail = "consumidorFinal@gmail.com",
                         MontoMaximoCtaCte = 0m,
                         TieneLimiteCompra = false,
-                        Telefono = "0123456789"
+                        Telefono = "No Declarado"
                     };
 
                     context.Personas.Add(ClienteConsumidorFinal);

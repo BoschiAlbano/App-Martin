@@ -59,10 +59,10 @@ namespace Servicios.Articulo
                         PermiteStockNegativo = dto.PermiteStockNegativo
                     };
 
-                    if (VerificarSiExiste(entidad.Descripcion, entidad.Codigo))
-                    {
-                        return;
-                    }
+                    //if (VerificarSiExiste(entidad.Descripcion, entidad.Codigo))
+                    //{
+                    //    return;
+                    //}
 
                     _unidadDeTrabajo.ArticuloRepositorio.Insertar(entidad);
                     _unidadDeTrabajo.Commit();

@@ -352,6 +352,7 @@ namespace Presentacion.Core.FormaPago
                             Codigo = item.CodigoBarra,
                             SubTotal = item.SubTotal,
                             Eliminado = false,
+                            Dto = item.Dto
                         });
                     }
                 }
